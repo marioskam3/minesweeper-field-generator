@@ -1,4 +1,4 @@
-![ProjectLogo](/logo-&-screenshots/Minesweeperfiled_generator.png)
+![ProjectLogo](/logo-&-screenshots/Minesweeperfield_generator.png)
 
 ## Overview
 
